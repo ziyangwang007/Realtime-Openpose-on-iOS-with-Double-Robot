@@ -4,9 +4,6 @@ This project achieves run the Openpose model on iOS device in real-time, and als
 
 
 
-Please also download and include OpenCV iOS Pack in this project.
-https://opencv.org/releases/
-
 
 The information about Double Robot can be found here:
 https://www.doublerobotics.com/
