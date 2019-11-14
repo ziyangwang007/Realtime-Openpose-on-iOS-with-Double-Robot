@@ -4,3 +4,4 @@
 *.swift linguist-language=swift
 *.cpp linguist-language=swift
 *.c linguist-language=swift
+*.hpp linguist-language=swift
