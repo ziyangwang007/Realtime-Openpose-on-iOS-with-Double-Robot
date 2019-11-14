@@ -2,3 +2,5 @@
 *.m linguist-language=swift
 *.h linguist-language=swift
 *.swift linguist-language=swift
+*.cpp linguist-language=swift
+*.c linguist-language=swift
