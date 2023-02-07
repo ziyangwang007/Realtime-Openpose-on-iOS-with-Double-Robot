@@ -7,7 +7,7 @@ This project achieves run the Openpose model(human pose estimation) on iOS devic
 You can build this app on a iPad with your mac with XCode.
 
 ## Demo
-![Screenshot on your iPad](demo1.png){width=250}
+![Screenshot on your iPad](demo1.png){width=100}
 ![Picture of Robot](demo2.png)
 ![Demo on Openpose](demo3.png)
 
