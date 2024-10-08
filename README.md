@@ -6,10 +6,16 @@ This project achieves run the Openpose model(human pose estimation) on iOS devic
 ## Requirements
 You can build this app on a iPad with your mac with XCode.
 
+<img src="Picture1.gif" width="200" height="300"> <img src="Picture2.gif" width="200" height="300"> 
+
+
 ## Demo Picture
 
 <img src="demo1.png" width="200" height="300"> <img src="demo2.png" width="200" height="300"> <img src="demo3.png" width="200" height="300"> <img src="demo4.jpg" width="200" height="300">
 
+
+
+## References
 
 Please consider citing the following works, if you use in your research/projects:
 
@@ -22,10 +28,8 @@ Please consider citing the following works, if you use in your research/projects
 	  organization={IEEE}
 	}
 
-## References
+
+
+## Double Robot
 The information about Double Robot can be found here:
 https://www.doublerobotics.com/
-
-
-## Acknowledgement
-I would also like to thank Eugene Bokhan for his excellent work on porting Openpose to iOS device and UI design.
