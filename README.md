@@ -5,7 +5,8 @@ This project achieves run the Openpose model(human pose estimation) on iOS devic
 
 ## Requirements
 You can build this app on a iPad with your mac with XCode.
-<img src="Picture1.gif"> <img src="Picture2.gif">
+
+<img src="Picture1.gif" width="200" height="300"> <img src="Picture2.gif" width="200" height="300"> 
 
 
 ## Demo Picture
